@@ -3,4 +3,5 @@ In this repo, we will share some materials of our mini course about information 
 
 # Contents: 
 Session 1: Information, Entropy
+
 Session 2: Joint, Conditional, Cross Entropy, Mutual Information
