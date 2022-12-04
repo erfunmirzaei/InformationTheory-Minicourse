@@ -8,4 +8,4 @@ Session 2: Joint, Conditional, Cross Entropy, and Mutual Information Definition,
 
 Session 3: Information Inequality, Max Entropy, Information never hurts, Data processing inequality, Sufficient statistics, [Slide](https://github.com/erfunmirzaei/InformationTheory-Minicourse/blob/main/IT%20Mini-Course%20Session%203.pdf)
 
-Session 4: Fano Inequality, Weak Law of Large Numbers, AEP, [Slide]([url](https://github.com/erfunmirzaei/InformationTheory-Minicourse/blob/main/IT%20Mini-Course%20Session%204.pdf))
+Session 4: Fano Inequality, Weak Law of Large Numbers, AEP, [Slide](https://github.com/erfunmirzaei/InformationTheory-Minicourse/blob/main/IT%20Mini-Course%20Session%204.pdf)
